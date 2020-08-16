@@ -1,3 +1,10 @@
+
+A recent [Twitter thread discussed the risks of oral morphine solution](https://twitter.com/Jon_SWestNHS/status/1293170815228313600) which is commonly know by the tradename Oramorph. Huge variation is observable in [prescribing patterns of Oramorph](https://openprescribing.net/analyse/#org=CCG&numIds=0407020Q0BCAGCN,0407020Q0AACNCN&denom=total_list_size&selectedTab=summary) in OpenPrescribing. This repo
+seeks to examine the the prescribing of Oramorph more closely.
+
+
+
+
 # EBM DataLab's skeleton notebook environment
 
 ## Getting started with this skeleton project
